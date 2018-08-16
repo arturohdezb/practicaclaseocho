@@ -1,0 +1,6 @@
+Practica clase de ocho 
+
+- Make sure that both have users in github or gitlab (Same repo for both 
+students)
+- Make sure you have Git installed in your machine
+
